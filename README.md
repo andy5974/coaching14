@@ -19,3 +19,4 @@ Group activity to familiarize with git
 # Code Contributors
 - <alias of jesstern, zirong, buckyatplay,zirong2 >
 - <alias of jesstern, zirong, buckybucky >
+>>>>>>> e2c31aaf58c3a50d30600102d2a760bbc6696bf3
