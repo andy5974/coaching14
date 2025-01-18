@@ -18,3 +18,5 @@ Group activity to familiarize with git
 11. `git branch -d <branch name>` - - this is a change by Contributor 4
 # Code Contributors
 - <alias of jesstern, zirong, buckyatplay,zirong2 >
+- <alias of jesstern, zirong, buckybucky >
+>>>>>>> dab0f50902f3289cda43556a6d6d4a6f6dbf4589
