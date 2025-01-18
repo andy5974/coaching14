@@ -23,3 +23,5 @@ Group activity to familiarize with git
 Choon Yee
 Jesstern
 Zi Rong
+
+New change for Activity #4
