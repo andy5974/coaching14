@@ -15,7 +15,6 @@ Group activity to familiarize with git
 8. `git branch <branch name>`
 9. `git checkout <branch name>` Choon Yee is here!
 10. `git merge <branch name>`
-11. `git branch -d <branch name>`
-
+11. `git branch -d <branch name>` - - this is a change by Contributor 4
 # Code Contributors
 - <alias of jesstern, zirong, buckyatplay >
