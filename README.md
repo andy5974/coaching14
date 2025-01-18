@@ -19,7 +19,7 @@ Group activity to familiarize with git
 
 # Code Contributors
 
-- <alias of jesstern, zirong, buckyatplay,zirong2 ,Zirong 3>
+- <alias of jesstern, zirong, buckyatplay,zirong2 ,Zirong 3,Zirong-11.57am>
 - <alias of jesstern, zirong, buckybucky >
 
 Choon Yee
