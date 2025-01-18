@@ -17,6 +17,6 @@ Group activity to familiarize with git
 10. `git merge <branch name>`
 11. `git branch -d <branch name>` - - this is a change by Contributor 4
 # Code Contributors
-- <alias of jesstern, zirong, buckyatplay,zirong2 >
+- <alias of jesstern, zirong, buckyatplay,zirong2 ,Zirong 3>
 - <alias of jesstern, zirong, buckybucky >
 >>>>>>> e2c31aaf58c3a50d30600102d2a760bbc6696bf3
