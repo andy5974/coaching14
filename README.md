@@ -16,7 +16,15 @@ Group activity to familiarize with git
 9. `git checkout <branch name>` Choon Yee is here!
 10. `git merge <branch name>`
 11. `git branch -d <branch name>` - - this is a change by Contributor 4
+
 # Code Contributors
-- <alias of jesstern, zirong, buckyatplay,zirong2 >
+<<<<<<< HEAD
+- <alias of jesstern, zirong, buckyatplay,zirong2 ,Zirong 3>
 - <alias of jesstern, zirong, buckybucky >
->>>>>>> dab0f50902f3289cda43556a6d6d4a6f6dbf4589
+>>>>>>> e2c31aaf58c3a50d30600102d2a760bbc6696bf3
+=======
+
+Choon Yee
+Jesstern
+Zi Rong
+>>>>>>> e736d64548966225b780891fe695e3797572c29d
