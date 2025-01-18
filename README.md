@@ -3,7 +3,7 @@ git collabs
 
 # Overview
 Group activity to familiarize with git
-
+⭐ This is a change by Contributor 2
 # Commands
 1. `git init` - initializes a git repository
 2. `git status` - shows changes made to repository, categorised by tracked/untracked.
